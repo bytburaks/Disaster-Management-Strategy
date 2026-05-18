@@ -4,7 +4,7 @@ This repository contains an educational real-time strategy (RTS) and management 
 
 ## 🚀 Play in Browser
 You can play the web-optimized version of the game directly on your browser via GitHub Pages:
-👉 **[Click Here to Play the Game](YAPTIĞIN_GITHUB_PAGES_LINKINI_BURAYA_YAZ)**
+👉 **[Click Here to Play the Game](https://bytburaks.github.io/Disaster-Management-Strategy/)**
 
 ---
 
